@@ -7,6 +7,8 @@
 
 ## Team Members
 
+> Group - 3
+
 - Sarthak Verma
 - Navneet Singh
 - Lokesh Dugar
