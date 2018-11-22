@@ -7,7 +7,7 @@
 
 ## Team Members
 
-> Group - 3
+*Group - 3*
 
 - Sarthak Verma
 - Navneet Singh
