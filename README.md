@@ -1,9 +1,15 @@
 # Dell Hackathon
+
 *Manipal University Jaipur, 15 - 16 November 2018*
 
-> Client Side is built on Vue.js
+## Problem
 
-> Server is built using Flask ( python )
+**Services - Asset & Entitlement Inventory**
+
+## Overview
+- Client Side is built on Vue.js
+- Server is built using Python ( Flask )
+- Authentication is done is firebase
 
 ## Team Members
 
