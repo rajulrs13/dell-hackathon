@@ -9,7 +9,7 @@
 ## Overview
 - Client Side is built on Vue.js
 - Server is built using Python ( Flask )
-- Authentication is done is firebase
+- Authentication is done using firebase
 
 ## Team Members
 
