@@ -30,12 +30,6 @@ pip install gunicorn
 
 - Running the server
 ``` bash
-# install flask
-pip install flask
-
-# install gunicorn
-pip install gunicorn
-
 # running the server
 gunicorn --bind 0.0.0.0:8000 server:app
 
